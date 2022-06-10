@@ -1,0 +1,4 @@
+services:
+  app:
+    image: nvim-efm-langserver/dev
+    build: .
