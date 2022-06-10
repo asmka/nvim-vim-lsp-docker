@@ -1,4 +1,4 @@
 services:
   app:
-    image: nvim-efm-langserver/dev
+    image: nvim-vim-lsp/dev
     build: .
