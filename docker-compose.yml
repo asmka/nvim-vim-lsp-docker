@@ -1,4 +1,4 @@
 services:
   app:
-    image: nvim-vim-lsp/dev
+    image: nvim-vim-lsp
     build: .
